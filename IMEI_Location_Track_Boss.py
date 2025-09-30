@@ -18,8 +18,8 @@ def animate_text(text, delay=0.03):
 def show_banner():
     banner = """
 ╔══════════════════════════════════════╗
-║          IMEI TRACKER v2.0           ║
-║      Created for Termux Users        ║
+║          IMEI TRACKER BOSS v3.1      ║
+║          Codded By-DARKBOSS1BD       ║
 ╚══════════════════════════════════════╝
     """
     print("\033[94m" + banner + "\033[0m")
